@@ -1,4 +1,0 @@
-- name: Install Argo CLI
-  hosts: all
-  roles:
-    - andrewrothstein.argo
